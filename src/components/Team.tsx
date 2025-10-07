@@ -7,7 +7,7 @@ const Team = () => {
       name: "Sanku sodhi",
       role: "Founder & Lead Developer",
       expertise: "Full Stack Development, Cloud Architecture",
-      image: "photo.png",
+      image: "/home/ngr/Downloads/photo.png",
       social: {
         linkedin: "#",
         github: "#",
