@@ -15,14 +15,14 @@ const Team = () => {
       }
     },
     {
-      name: "Dhurwa",
+      name: "Priya",
       role: "Frontend Specialist",
       expertise: "React, Vue.js, UI/UX Design",
       image: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=300&h=300&fit=crop&crop=face",
       social: {
         linkedin: "#",
         github: "#", 
-        email: "dhurwa@codebastarsolutions.com"
+        email: "priya@codebastarsolutions.com"
       }
     },
     {
