@@ -18,7 +18,7 @@ const Team = () => {
       name: "Dhurwa",
       role: "Frontend Specialist",
       expertise: "React, Vue.js, UI/UX Design",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=300&h=300&fit=crop&crop=face",
+      image: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=300&h=300&fit=crop&crop=face",
       social: {
         linkedin: "#",
         github: "#", 
@@ -29,7 +29,7 @@ const Team = () => {
       name: "Amit Patel",
       role: "Backend Engineer",
       expertise: "Node.js, Python, Database Design",
-      image: "",
+      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
       social: {
         linkedin: "#",
         github: "#",
