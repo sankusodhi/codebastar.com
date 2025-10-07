@@ -7,7 +7,7 @@ const Team = () => {
       name: "Sanku sodhi",
       role: "Founder & Lead Developer",
       expertise: "Full Stack Development, Cloud Architecture",
-      image: "/home/ngr/Downloads/photo.png",
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
       social: {
         linkedin: "#",
         github: "#",
@@ -18,7 +18,7 @@ const Team = () => {
       name: "Dhurwa",
       role: "Frontend Specialist",
       expertise: "React, Vue.js, UI/UX Design",
-      image: "ChatGPT Image Aug 4, 2025, 11_15_01 PM.png",
+      image: "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=300&h=300&fit=crop&crop=face",
       social: {
         linkedin: "#",
         github: "#", 
