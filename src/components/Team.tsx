@@ -4,25 +4,25 @@ import { Github, Linkedin, Mail } from "lucide-react";
 const Team = () => {
   const teamMembers = [
     {
-      name: "Rohit Kumar",
+      name: "Sanku sodhi",
       role: "Founder & Lead Developer",
       expertise: "Full Stack Development, Cloud Architecture",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+      image: "photo.png",
       social: {
         linkedin: "#",
         github: "#",
-        email: "rohit@codebastarsolutions.com"
+        email: "sanku@codebastarsolutions.com"
       }
     },
     {
-      name: "Priya Singh",
+      name: "Dhurwa",
       role: "Frontend Specialist",
       expertise: "React, Vue.js, UI/UX Design",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=300&h=300&fit=crop&crop=face",
+      image: "ChatGPT Image Aug 4, 2025, 11_15_01 PM.png",
       social: {
         linkedin: "#",
         github: "#", 
-        email: "priya@codebastarsolutions.com"
+        email: "dhurwa@codebastarsolutions.com"
       }
     },
     {

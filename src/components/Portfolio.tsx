@@ -9,24 +9,24 @@ const Portfolio = () => {
       description: "Modern e-commerce solution with payment integration, inventory management, and admin dashboard.",
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      githubUrl: "#"
+      liveUrl: "https://trendify-commerce-platform.vercel.app/",
+      githubUrl: "https://github.com/sankusodhi/trendify-commerce-platform"
     },
     {
       title: "Restaurant Management App", 
       description: "Complete restaurant management system with order tracking, table booking, and staff management.",
       technologies: ["React Native", "Firebase", "Express", "PostgreSQL"],
       image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      githubUrl: "#"
+      liveUrl: "https://dantewada-advanture.vercel.app/",
+      githubUrl: "https://github.com/sankusodhi/Dantewada-Advanture"
     },
     {
       title: "Learning Management System",
       description: "Educational platform with course management, student progress tracking, and virtual classrooms.",
       technologies: ["Next.js", "TypeScript", "Prisma", "AWS"],
       image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      githubUrl: "#"
+      liveUrl: "https://quiz-ai-nexus.vercel.app/dashboard",
+      githubUrl: "https://github.com/sankusodhi/quiz-ai-nexus"
     },
     {
       title: "Healthcare Portal",
@@ -37,12 +37,12 @@ const Portfolio = () => {
       githubUrl: "#"
     },
     {
-      title: "Real Estate Platform",
+      title: "Real portfolio Management System",
       description: "Property listing and management platform with advanced search, virtual tours, and CRM integration.",
       technologies: ["Angular", "Django", "PostgreSQL", "Redis"],
       image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      githubUrl: "#"
+      liveUrl: "https://portfolio-eosin-theta-67.vercel.app/",
+      githubUrl: "https://github.com/sankusodhi/Portfolio_"
     },
     {
       title: "Fintech Dashboard",
@@ -50,7 +50,7 @@ const Portfolio = () => {
       technologies: ["React", "Python", "D3.js", "Docker"],
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
       liveUrl: "#",
-      githubUrl: "#"
+      githubUrl: "https://github.com/sankusodhi/Invoice-Management-System"
     }
   ];
 
